@@ -1,5 +1,5 @@
-# 💫 About Me:
-<br>🔭 I’m currently working on<br>Enhancing my skills in data science and building real-world projects.<br>👯 I’m looking to collaborate on<br>Data analysis, Power BI dashboards, and beginner-level machine learning projects.<br>🤝 I’m looking for help with<br>Gaining industry-level experience in data science and improving SQL & advanced analytics skills.<br>🌱 I’m currently learning<br>Data Science and advanced concepts in Python, Power BI, and Machine Learning.<br>💬 Ask me about<br>Data Analysis, Power BI, Python basics, and Excel.<br>⚡ Fun fact<br>I have completed my Data Analysis training and love converting data into insights 📊
+**# 💫 About Me:
+<br>🔭 I’m currently working on<br>Enhancing my skills in data science and building real-world projects.<br>👯 I’m looking to collaborate on<br>Data analysis, Power BI dashboards, and beginner-level machine learning projects.<br>🤝 I’m looking for help with<br>Gaining industry-level experience in data science and improving SQL & advanced analytics skills.<br>🌱 I’m currently learning<br>Data Science and advanced concepts in Python, Power BI, and Machine Learning.<br>💬 Ask me about<br>Data Analysis, Power BI, Python basics, and Excel.<br>⚡ Fun fact<br>I have completed my Data Analysis training and love converting data into insights 📊**
 
 
 ## 🌐 Socials:
